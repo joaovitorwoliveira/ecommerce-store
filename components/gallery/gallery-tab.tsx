@@ -16,6 +16,7 @@ const GalleryTab: React.FC<GalleryProps> = ({ image }) => {
           <span className="absoluteg-full w-full aspect-square inset-0 overflow-hidden rounded-md">
             <Image
               fill
+              //@ts-ignore
               src={image.url}
               alt="Galeria"
               className="object-cover object-center"
