@@ -11,7 +11,7 @@ import ToastProvider from "@/providers/toast-provider";
 const font = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Loja",
+  title: "Z-Store",
   description: "Loja de e-commerce",
 };
 
