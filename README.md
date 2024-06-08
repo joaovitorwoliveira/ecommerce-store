@@ -16,7 +16,7 @@ Projeto desenvolvido para consumir a API do projeto [API/Dashboard](https://gith
 
 ## APP em Produção:
 
-[API/Dashboard](https://ecommerce-store-bd3f.vercel.app/)
+[Z-Store](https://ecommerce-store-bd3f.vercel.app/)
 
 ## Autor
 
